@@ -9,4 +9,4 @@ Script para comprobar:
 ## Uso
 
 ```bash
-curl -s https://raw.githubusercontent.com/elektraec/verificador-entorno-tarea/main/verificar_entorno.sh | sudo bash
+curl -s https://raw.githubusercontent.com/elektraec/verificador-entorno-tarea/main/verificar_tarea1.sh | sudo bash
